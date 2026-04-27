@@ -1,0 +1,7 @@
+com.voltnexis.app-pngs-0 C:\Users\HP\Downloads\app\app\build\generated\res\pngs\release
+com.voltnexis.app-resValues-1 C:\Users\HP\Downloads\app\app\build\generated\res\resValues\release
+com.voltnexis.app-packageReleaseResources-2 C:\Users\HP\Downloads\app\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.voltnexis.app-packageReleaseResources-3 C:\Users\HP\Downloads\app\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.voltnexis.app-merged_res-4 C:\Users\HP\Downloads\app\app\build\intermediates\merged_res\release
+com.voltnexis.app-main-5 C:\Users\HP\Downloads\app\app\src\main\res
+com.voltnexis.app-release-6 C:\Users\HP\Downloads\app\app\src\release\res

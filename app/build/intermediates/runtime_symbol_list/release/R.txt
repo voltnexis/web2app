@@ -1,0 +1,7 @@
+int anim fade_in 0x7f010000
+int anim pulse_animation 0x7f010001
+int drawable gradient_background 0x7f020000
+int drawable icon 0x7f020001
+int drawable pulse_circle 0x7f020002
+int id webview 0x7f030000
+int layout activity_main 0x7f040000

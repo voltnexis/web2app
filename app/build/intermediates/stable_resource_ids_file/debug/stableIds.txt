@@ -1,0 +1,7 @@
+com.voltnexis.qoutes:layout/activity_main = 0x7f040000
+com.voltnexis.qoutes:anim/pulse_animation = 0x7f010001
+com.voltnexis.qoutes:drawable/pulse_circle = 0x7f020002
+com.voltnexis.qoutes:id/webview = 0x7f030000
+com.voltnexis.qoutes:anim/fade_in = 0x7f010000
+com.voltnexis.qoutes:drawable/icon = 0x7f020001
+com.voltnexis.qoutes:drawable/gradient_background = 0x7f020000

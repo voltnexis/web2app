@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-merged_res-4:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-main-5:\\drawable\\icon.png"
+    },
+    {
+        "merged": "com.voltnexis.app-merged_res-4:/drawable_icon.png.flat",
+        "source": "com.voltnexis.app-main-5:/drawable/icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-main-5:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-merged_res-4:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-main-5:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-merged_res-4:\\drawable_pulse_circle.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-main-5:\\drawable\\pulse_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-merged_res-4:\\anim_pulse_animation.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-main-5:\\anim\\pulse_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-merged_res-4:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.5\\com.voltnexis.app-main-5:\\drawable\\gradient_background.xml"
+    }
+]
